@@ -982,6 +982,34 @@
         "aliases": []
     },
     {
+        "name": "azuredatafactory",
+        "altnames": [
+            "azure data factory"
+        ],
+        "tags": [
+            "azure",
+            "ETL",
+            "cloud",
+            "big data",
+            "data-processing",
+            "data science",
+            "data-transfer"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "plain",
+                "line"
+            ],
+            "font": [
+                "plain",
+                "line"
+            ]
+        },
+        "color": "#095ca2",
+        "aliases": []
+    },
+    {
         "name": "azuredevops",
         "altnames": [
             "azure-devops"
@@ -1484,6 +1512,29 @@
         "aliases": []
     },
     {
+        "name": "bruno",
+        "altnames": [],
+        "tags": [
+            "api",
+            "tool",
+            "testing"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain",
+                "plain-wordmark"
+            ],
+            "font": [
+                "plain",
+                "plain-wordmark"
+            ]
+        },
+        "color": "#161414",
+        "aliases": []
+    },
+    {
         "name": "bulma",
         "altnames": [
             "bulmacss"
@@ -1914,7 +1965,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#21d789",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -2098,6 +2149,34 @@
             ]
         },
         "color": "#005096",
+        "aliases": []
+    },
+    {
+        "name": "codeberg",
+        "altnames": [],
+        "tags": [
+            "non-profit",
+            "git",
+            "hosting",
+            "forgejo"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain",
+                "plain-wordmark",
+                "line",
+                "line-wordmark"
+            ],
+            "font": [
+                "plain",
+                "plain-wordmark",
+                "line",
+                "line-wordmark"
+            ]
+        },
+        "color": "#2185d0",
         "aliases": []
     },
     {
@@ -4776,6 +4855,7 @@
         "versions": {
             "svg": [
                 "original",
+                "original-wordmark",
                 "plain",
                 "plain-wordmark"
             ],
@@ -4784,7 +4864,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#087cfa",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -5701,7 +5781,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#087cfa",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -7146,6 +7226,45 @@
             ]
         },
         "color": "#000080",
+        "aliases": [
+            {
+                "base": "original",
+                "alias": "original-wordmark"
+            },
+            {
+                "base": "plain",
+                "alias": "plain-wordmark"
+            },
+            {
+                "base": "line",
+                "alias": "line-wordmark"
+            }
+        ]
+    },
+    {
+        "name": "luau",
+        "altnames": [],
+        "tags": [
+            "programming",
+            "language",
+            "object-oriented",
+            "scripting",
+            "procedural",
+            "prototype-based",
+            "functional"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "plain",
+                "line"
+            ],
+            "font": [
+                "plain",
+                "line"
+            ]
+        },
+        "color": "#00A2FF",
         "aliases": [
             {
                 "base": "original",
@@ -9393,6 +9512,7 @@
         "versions": {
             "svg": [
                 "original",
+                "original-wordmark",
                 "plain",
                 "plain-wordmark"
             ],
@@ -9401,7 +9521,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#b74af7",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -10163,7 +10283,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#21D789",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -11074,7 +11194,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#dd1265",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -11253,7 +11373,8 @@
         "altnames": [],
         "tags": [
             "jetbrains",
-            "editor"
+            "editor",
+            "IDE"
         ],
         "versions": {
             "svg": [
@@ -11267,7 +11388,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#FC801D",
+        "color": "#000000",
         "aliases": []
     },
     {
@@ -12731,6 +12852,41 @@
         "aliases": []
     },
     {
+        "name": "tenzir",
+        "altnames": [],
+        "tags": [
+            "security",
+            "logs",
+            "monitoring",
+            "pipeline"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "line",
+                "line-wordmark"
+            ],
+            "font": [
+                "original",
+                "original-wordmark",
+                "line",
+                "line-wordmark"
+            ]
+        },
+        "color": "#0e1017",
+        "aliases": [
+            {
+                "base": "original",
+                "alias": "plain"
+            },
+            {
+                "base": "original-wordmark",
+                "alias": "plain-wordmark"
+            }
+        ]
+    },
+    {
         "name": "terraform",
         "altnames": [],
         "tags": [
@@ -13436,6 +13592,33 @@
         ]
     },
     {
+        "name": "uv",
+        "altnames": [],
+        "tags": [
+            "python",
+            "environment",
+            "package",
+            "manager"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "line"
+            ],
+            "font": [
+                "original",
+                "line"
+            ]
+        },
+        "color": "#de5fe9",
+        "aliases": [
+            {
+                "base": "original",
+                "alias": "plain"
+            }
+        ]
+    },
+    {
         "name": "uwsgi",
         "altnames": [
             "uwebservergatewayinterface"
@@ -13554,6 +13737,30 @@
             ]
         },
         "color": "#a56de2",
+        "aliases": []
+    },
+    {
+        "name": "vapor",
+        "altnames": [],
+        "tags": [
+            "programming",
+            "server",
+            "backend",
+            "swift"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain",
+                "plain-wordmark"
+            ],
+            "font": [
+                "plain",
+                "plain-wordmark"
+            ]
+        },
+        "color": "#141416",
         "aliases": []
     },
     {
@@ -14235,7 +14442,7 @@
                 "plain-wordmark"
             ]
         },
-        "color": "#07c3f2",
+        "color": "#000000",
         "aliases": []
     },
     {
