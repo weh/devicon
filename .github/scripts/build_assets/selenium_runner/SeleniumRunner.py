@@ -227,7 +227,7 @@ class SeleniumRunner:
         input two times before the menu appears.
         :return: None.
         """
-        top_set_hamburger_input_xpath = '//*[@id="toolbar"]/button[1]/i'
+        top_set_hamburger_input_xpath = '//*[@id="toolbar"]/div[1]/button[1]/i'
         hamburger_input = self.driver.find_element_by_xpath(
             top_set_hamburger_input_xpath
         )
