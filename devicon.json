@@ -10542,6 +10542,29 @@
         "aliases": []
     },
     {
+        "name": "prestashop",
+        "altnames": [],
+        "tags": [
+            "ecommerce",
+            "cms",
+            "php"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark",
+                "plain",
+                "plain-wordmark"
+            ],
+            "font": [
+                "plain",
+                "plain-wordmark"
+            ]
+        },
+        "color": "#E03C31",
+        "aliases": []
+    },
+    {
         "name": "primeng",
         "altnames": [],
         "tags": [
@@ -12518,6 +12541,26 @@
             ]
         },
         "color": "#8cc445",
+        "aliases": []
+    },  
+    {
+        "name": "shadcn",
+        "altnames": [],
+        "color":"#000000",
+        "tags": [
+            "ui",
+            "components",
+            "reactjs",
+            "library"
+        ],
+        "versions": {
+            "svg": [
+                "original"
+            ],
+            "font": [
+                "original"
+            ]
+        },
         "aliases": []
     },
     {
